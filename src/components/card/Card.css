@@ -1,0 +1,12 @@
+.card {
+  background-color: var(--cardColor);
+  height: 230px;
+  width: 380px;
+  padding: 1.5em 2.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  border-radius: 0.8rem;
+  position: relative;
+}

@@ -1,0 +1,6 @@
+.title {
+  font-size: 0.6em;
+  letter-spacing: 3px;
+  color: var(--btnColor);
+  font-family: "Manrope", sans-serif;
+}

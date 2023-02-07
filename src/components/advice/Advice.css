@@ -1,0 +1,10 @@
+.advice {
+  width: 100%;
+  text-align: center;
+  margin-top: 1.5rem;
+  color: var(--fontColor);
+  height: 65%;
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 1.5em;
+}

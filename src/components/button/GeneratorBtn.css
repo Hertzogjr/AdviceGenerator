@@ -1,0 +1,33 @@
+.generatorBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+  border: none;
+  padding: 0.8rem;
+  background-color: var(--btnColor);
+  border-radius: 50%;
+  text-align: center;
+  position: absolute;
+
+  bottom: -30px;
+  transition: 0.2s;
+}
+
+.generatorBtn img {
+  transition: 0.2s;
+}
+
+.generatorBtn img:hover {
+  background-color: var(--btnColor);
+  cursor: pointer;
+  scale: 1.1;
+}
+
+.generatorBtn {
+  cursor: pointer;
+}
+.generatorBtn:active {
+  scale: 0.8;
+  rotate: calc(180deg);
+}
